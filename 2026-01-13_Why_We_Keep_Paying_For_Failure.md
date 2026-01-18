@@ -1,10 +1,9 @@
-# Why We Keep Paying For Failure
+# Why We Keep Paying For Failure Instead Of Fixing It
 
 **Author:** The ROS Collective  
 **Date:** 2026-01-13  
 **License:** CC BY-SA 4.0  
 
-Why We Keep Paying for Failure Instead of Fixing It
 
 We spend an extraordinary amount of time arguing about what we believe, what we value, and who we think we are. Meanwhile, the same broken systems quietly keep costing us — steadily, month after month — through higher utility bills, outages, medical costs, and emergency repairs. Small charges add up while we are busy debating everything else. This is a failure of upkeep, not ideals.
 
