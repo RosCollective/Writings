@@ -28,41 +28,24 @@ The accumulating costs do not stop with buildings, outages, or hospital visits. 
 
 What follows is familiar:
 
-Replacement timing
-Things fail at the worst moment, and the rush to restore service locks in the same weak setup.
+- **Replacement timing:** Things fail at the worst moment, and the rush to restore service locks in the same weak setup.
+- **Fragile supply chains:** Efficiency works until something goes wrong, then shelves empty and prices jump.
+- **Deferred maintenance:** Repairs postponed quietly come back as emergencies that cost more.
+- **Repairability:** Objects are replaced because fixing them was never made easy.
+- **Defaults:** People end up with worse outcomes because the sensible option is buried.
+- **Outcomes:** Money is spent on plans instead of fewer outages, lower bills, or cleaner air.
+- **Peak demand:** We build for rare extremes instead of reducing everyday waste.
+- **Emergency response:** Failure is funded generously; prevention is not.
+- **Incentives:** Short-term performance is rewarded even when it recreates the same problem.
 
-Fragile supply chains
-Efficiency works until something goes wrong, then shelves empty and prices jump.
-
-Deferred maintenance
-Repairs postponed quietly come back as emergencies that cost more.
-
-Repairability
-Objects are replaced because fixing them was never made easy.
-
-Defaults
-People end up with worse outcomes because the sensible option is buried.
-
-Outcomes
-Money is spent on plans instead of fewer outages, lower bills, or cleaner air.
-
-Peak demand
-We build for rare extremes instead of reducing everyday waste.
-
-Emergency response
-Failure is funded generously; prevention is not.
-
-Incentives
-Short-term performance is rewarded even when it recreates the same problem.
-
-The pattern
+The pattern:
 Things keep working just enough to avoid fixing what is broken.
 
-None of this is new. None of it is extreme. None of it requires agreement about politics or values. We are already paying — in higher bills, outages, shortages, and emergency repairs. The question is not whether we can afford to fix these systems. The question is why we keep choosing not to.
+None of this is new. None of it is extreme. None of it requires agreement about politics or values. We are already paying — in higher bills, outages, shortages, and emergency repairs. 
 
-Recurring Cost vs. One-Time Fix
+The question is not whether we can afford to fix these systems.
+The question is why we keep choosing not to.
 
-(Why we keep paying forever for problems we could pay to fix once)
 
 ---
 This work is part of the ROS Collective public archive.  

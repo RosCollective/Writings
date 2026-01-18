@@ -51,37 +51,27 @@ Humans already have the skills required to survive extreme conditions. To do the
 EXPLORATION / NONFICTION
 
 Tutton, Mark. “Descending Into One of the Deepest Caves on Earth.”
-
 National Geographic, 2018.
-
 https://www.nationalgeographic.com/science/article/descending-into-one-of-the-deepest-caves-on-earth
 
-(Exploration of Veryovkina Cave, Western Caucasus.)
+Exploration of Veryovkina Cave, Western Caucasus.
 
 Bisharat, Andrew. “One of the Deepest Caves in the World is Even Bigger Than We Thought.”
-
 National Geographic, June 7, 2018
-
 https://www.nationalgeographic.com/culture/article/sistema-huautla-cave-mexico-culture
-
 Photographs by Joshua Hydeman
 
 While trapped inside Mexico's Sistema Huautla by torrential flooding, cavers and scientists discovered new connections—expanding the map of the Western Hemisphere's deepest cave.
 
 Steele, Bill.  https://www.peshcaving.org/
-
 Co-founder, Proyecto Espeleológico Sistema Huautla (PESH).
-
 Exploration of the Sistema Huautla cave system, Oaxaca, Mexico.
 
 Approximately 48 endemic species identified that live nowhere else on Earth.
 
 Borunda, Alejandra
-
 How Explorers Sleep in Extreme Spots
-
 National Geographic, July 30, 2018
-
 https://www.nationalgeographic.com/science/article/extreme-sleep-photos-wild-places-explorers
 
 Even on the high cliffs of Yosemite or in the caves of Malaysia, adventurers must learn to turn off their brains and catch some Z's.
