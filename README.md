@@ -35,7 +35,7 @@ For citations that should always resolve to the latest version, you may use the 
 
 > https://doi.org/10.5281/zenodo.18391060
 
-Version: ROS Collective Writings v0.1  
+Version: ROS Collective Writings v1.0.0  
 License: Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
 Copyright: © 2026 The ROS Collective
 
