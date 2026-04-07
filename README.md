@@ -28,8 +28,7 @@ Enclosure, privatization, or laundering into proprietary systems is explicitly d
 
 If you reference or share this work, please cite:
 
-> The ROS Collective (2026). ROS Collective Writings (v0.1). Zenodo.  
-> DOI: https://doi.org/10.5281/zenodo.18391061
+> The ROS Collective (2026). ROS Collective Writings (v1.0.0).  
 
 For citations that should always resolve to the latest version, you may use the concept DOI:
 
